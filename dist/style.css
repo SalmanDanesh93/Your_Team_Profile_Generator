@@ -1,0 +1,30 @@
+.c-b {
+    justify-content: center;
+    flex-direction: column;
+    color: orange;
+}
+
+.e-c {
+    color: blue;
+    background-color: rgb(201, 240, 201);
+    width: 75%;
+    display: flex;
+    border: 1px;
+}
+
+
+.l-g-i {
+    justify-content: center;
+    color:rgba(48, 10, 10, 0.7);
+}
+
+.t-a {
+    max-width: 500px;
+    margin: 1px auto;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.t-m {
+    background-color: yellow;
+}
